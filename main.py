@@ -1,9 +1,8 @@
 print("Hello World")
 
-a=1
+a=print(input("valor a:"))
 
-
-print(input("valor b:"))
+b=print(input("valor b:"))
 
 if b> a:
     print("b é maior que a")
